@@ -7,4 +7,4 @@ My favorite books in Data Engineering
 - Data Management at Scale: Modern Data Architecture with Data Mesh and Data Fabric  - by Piethein Strengholt
 - Data Quality Fundamentals: A Practitioner's Guide to Building Trustworthy Data Pipelines -  by Barr Moses (Author), Lior Gavish (Author), Molly Vorwerck (Author)
 
-![Joe Reis]("C:\Users\lavan\Downloads\02_Azure_VladRiscutia.jpg")
+![Joe Reis](C:\Users\lavan\Downloads\02_Azure_VladRiscutia.jpg)
